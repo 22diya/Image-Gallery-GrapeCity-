@@ -1,0 +1,28 @@
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\Image Gallery GrapeCity.exe.config
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\Image Gallery GrapeCity.exe
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\Image Gallery GrapeCity.pdb
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.C1Excel.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.C1Word.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.BarCode.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.Bitmap.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.C1Document.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.C1DX.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.FlexChart.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.ImportServices.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.Ribbon.4.5.2.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\C1.Win.Ribbon.4.5.2.xml
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image Gallery GrapeCity.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image_Gallery_GrapeCity.ImageGallery.resources
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image_Gallery_GrapeCity.Properties.Resources.resources
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image Gallery GrapeCity.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image Gallery GrapeCity.exe.licenses
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image Gallery GrapeCity.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image Gallery GrapeCity.exe
+C:\Users\hp\source\repos\Image Gallery GrapeCity\Image Gallery GrapeCity\obj\Debug\Image Gallery GrapeCity.pdb
